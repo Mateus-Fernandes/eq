@@ -8,8 +8,8 @@
         "destination": "Joinville - Santa Catarina",
         "order": 24,
         "status": {
-            "name": "Em Cotação",
-            "key": "quote"
+            "name": "Com Pendências",
+            "key": "pending"
         }
     },
     {
@@ -19,8 +19,8 @@
         "destination": "Joinville - Santa Catarina",
         "order": 37,
         "status": {
-            "name": "Em Cotação",
-            "key": "quote"
+            "name": "Com Pendências",
+            "key": "pending"
         }
     },
     {
