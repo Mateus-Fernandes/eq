@@ -10,7 +10,15 @@
         "status": {
             "name": "Com Pendências",
             "key": "pending"
-        }
+        },
+        "shipping": [
+            {
+                "data": "27/08 - 15h40m"
+            },
+            {
+                "data": "28/08 - 15h40m"
+            }
+        ]
     },
     {
         "carrier": "Ice cream sandwich",
