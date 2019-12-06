@@ -4,7 +4,7 @@
       {
         "carrier": "Frozen Yogurt",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-11-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 24,
         "status": {
@@ -23,7 +23,7 @@
     {
         "carrier": "Ice cream sandwich",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-10-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 37,
         "status": {
@@ -34,7 +34,7 @@
     {
         "carrier": "Eclair",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 23,
         "status": {
@@ -45,7 +45,7 @@
     {
         "carrier": "Cupcake",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 67,
         "status": {
@@ -56,7 +56,7 @@
     {
         "carrier": "Gingerbread",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 49,
         "status": {
@@ -67,7 +67,7 @@
     {
         "carrier": "Jelly bean",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 94,
         "status": {
@@ -78,7 +78,7 @@
     {
         "carrier": "Lollipop",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 98,
         "status": {
@@ -89,7 +89,7 @@
     {
         "carrier": "Honeycomb",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 87,
         "status": {
@@ -100,7 +100,7 @@
     {
         "carrier": "Donut",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 51,
         "status": {
@@ -111,7 +111,7 @@
     {
         "carrier": "KitKat",
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
-        "deliveryDate": "27/11/2019",
+        "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 65,
         "status": {
