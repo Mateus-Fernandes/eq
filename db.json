@@ -6,6 +6,7 @@
         "logo": "http://fernandesdesenvolvimento.com.br/img/loggi.png",
         "deliveryDate": "2019-11-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
+        "coords": [-26.2709522, -48.8700032],
         "order": 24,
         "status": {
             "name": "Com Pendências",
@@ -26,6 +27,7 @@
         "deliveryDate": "2019-10-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 37,
+        "coords": [-26.4836925, -49.0810575],
         "status": {
             "name": "Com Pendências",
             "key": "pending"
@@ -37,6 +39,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 23,
+        "coords": [-25.4465675, -49.2842825],
         "status": {
             "name": "Em Coleta",
             "key": "picking"
@@ -48,6 +51,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 67,
+        "coords": [-26.2709522, -48.8700032],
         "status": {
             "name": "Em Trânsito",
             "key": "transit"
@@ -59,6 +63,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 49,
+        "coords": [-25.4465675, -49.2842825],
         "status": {
             "name": "Em Trânsito",
             "key": "transit"
@@ -70,6 +75,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 94,
+        "coords": [-26.2709522, -48.8700032],
         "status": {
             "name": "Em Trânsito",
             "key": "transit"
@@ -81,6 +87,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 98,
+        "coords": [-26.2709522, -48.8700032],
         "status": {
             "name": "Em Trânsito",
             "key": "transit"
@@ -92,6 +99,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 87,
+        "coords": [-25.4465675, -49.2842825],
         "status": {
             "name": "Em Trânsito",
             "key": "transit"
@@ -103,6 +111,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 51,
+        "coords": [-26.2709522, -48.8700032],
         "status": {
             "name": "Atrasado",
             "key": "delayed"
@@ -114,6 +123,7 @@
         "deliveryDate": "2019-12-06T05:05:50.683+0000",
         "destination": "Joinville - Santa Catarina",
         "order": 65,
+        "coords": [-26.2709522, -48.8700032],
         "status": {
             "name": "Atrasado",
             "key": "delayed"
